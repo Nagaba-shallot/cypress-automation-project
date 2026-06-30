@@ -50,9 +50,22 @@ I want to implement Page Object Model and custom commands in production projects
 
 <img width="1889" height="1090" alt="image" src="https://github.com/user-attachments/assets/7af40258-2f6d-4e42-a647-4aab4d6f6862" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/d7aae5ff-a5cf-436b-998f-fbec388d3d8b" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/bf2f1d2f-08a2-4719-bc02-45a0cc999d8c" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/b7ec032f-d98d-48e8-b32e-05887cb08dd3" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/105bda61-0313-49af-86cd-2bb4a95e7a56" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/3cd3abd7-64d4-4d6f-b065-cbe8982b9efe" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/53ca42e6-6ba4-40c3-9bc1-b3509f7fea84" />
+# assertion 1 check visibility
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/eb222441-3c90-429e-82f7-397f90c8660b" />
 
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/957a256c-fa40-4211-8d51-1525f60e696b" />
+
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/eff45550-abcb-40bb-b2e0-1e4cc5e246e4" />
+
+<img width="1916" height="1124" alt="image" src="https://github.com/user-attachments/assets/75f1e6f7-39b9-4179-852b-8b10548943df" />
